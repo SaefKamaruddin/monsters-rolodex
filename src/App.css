@@ -13,6 +13,10 @@
   }
 }
 
+h1 {
+  font-family: "Bigelow Rules";
+  font-size: 72px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
